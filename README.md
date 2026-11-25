@@ -18,7 +18,8 @@ This program uses the _SHELX_ weighting scheme with parameters _a_ and _b_ with 
 This program supports extinction correction based on the isotropic Becker-Coppens Type I Gaussian correction following _JANA_.
 
 For guidance on using this program, please see .
-For details on the theoretical background of this program, please see .
+
+For details on the theoretical background of this program, please see [here](https://github.com/Ondue2/Refinement_tmNLL_TOPAZ/blob/main/Theoretical%20background%20for%20Refinement_tmNLL_TOPAZ.pdf).
 
 
 
